@@ -9,3 +9,7 @@ Peter Ndung’u – initial author
 Link To Live Site
 
 https://pnk96.github.io/My-Landing-Page/
+
+License 
+
+This project is licensed under the AGPL License - see the license.txt file for details
