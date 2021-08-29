@@ -12,7 +12,7 @@ h1 {
   }
 
   #h1 {
-    animation: fadeIn 5s;
+    animation: fadeIn 7s;
   }
     @keyframes fadeIn {
       from {
@@ -37,4 +37,16 @@ h1 {
     color: rgb(22, 204, 68);
     font-size: 50px;
     font-family: courier;
+  }
+
+  #h2 {
+    animation: fadeIn 3s;
+  }
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
   }
