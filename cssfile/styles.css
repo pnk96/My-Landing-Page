@@ -3,3 +3,10 @@ html, body {
     height: auto;
     background-color: #e5e5f7;
 }
+
+h1 {
+    color: rgb(38, 0, 255);
+    font-size: 100px;
+    font-family: courier;
+    text-align: center;
+  }
