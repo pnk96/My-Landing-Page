@@ -69,3 +69,8 @@ h1 {
         opacity: 1;
       }
   }
+
+  ol, ul {
+      font-style: italic;
+      font-weight: bold;
+  }
