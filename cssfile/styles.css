@@ -32,3 +32,9 @@ h1 {
   .img {
     float: center;
   }
+
+  h2 {
+    color: rgb(22, 204, 68);
+    font-size: 50px;
+    font-family: courier;
+  }
